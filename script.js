@@ -10,7 +10,6 @@ window.addEventListener("scroll", function () {
   toggle.addEventListener('click', () => {
     document.body.classList.toggle('dark-mode');
   });
-// Highlight active nav link on scroll
 const sections = document.querySelectorAll("section");
 const navLinks = document.querySelectorAll(".nav-links a");
 
