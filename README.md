@@ -28,7 +28,7 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SanviSK/SCT_WD_1.git
+git clone https://github.com/SanviSK/SCT_WD_1
 
 # 2. Navigate to the project directory
 cd SCT_WD_1
@@ -39,7 +39,7 @@ cd SCT_WD_1
 
 ✅ No frameworks or installations needed — it's a purely front-end project ready to go!
 
-🙋‍♀️ About Me
+## 🙋‍♀️ About Me
 Sanvi SK
 3rd Year CSE Student at DSATM
 Web Development Intern @ Skillcraft Technology
