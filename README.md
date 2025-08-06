@@ -4,23 +4,22 @@ DevPal is a responsive landing page built for developers. It offers a clean UI w
 
 ## 💡 Features
 
-- 🚀 Responsive design for all devices  
-- 📌 Fixed navigation bar  
-- 📚 Learning resources section  
-- 🛠️ Developer tools showcase  
+- 🚀 Responsive design for all devices
+- 📌 Fixed navigation bar
+- 📚 Learning resources section
+- 🛠️ Developer tools showcase
 
 ## 🛠️ Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
+- HTML
+- CSS
+- JavaScript
 
 ## 📁 Project Structure
-
-- `index.html` → Main HTML structure  
-- `style.css` → Styling and layout  
-- `script.js` → JavaScript functionality  
-- `logo.png` → Project logo  
+index.html --> Main HTML structure
+style.css --> Styling and layout
+script.js --> JavaScript functionality
+logo.png --> Project logo
 
 ## 🧩 Installation Instructions
 
@@ -36,16 +35,16 @@ cd SCT_WD_1
 # 3. Open the project
 # Just double-click on the 'index.html' file
 # OR open it using any browser like Chrome, Firefox, etc.
-
-✅ No frameworks or installations needed — it's a purely front-end project ready to go!
+```
 
 ## 🙋‍♀️ About Me
-Sanvi SK
-3rd Year CSE Student at DSATM
-Web Development Intern @ Skillcraft Technology
-Exploring DSA | C++ | Python | HTML | CSS
 
+**Sanvi SK**  
+3rd Year CSE Student at DSATM  
+Web Development Intern @ Skillcraft Technology 
+Exploring DSA | C++ | Python | HTML | CSS
 
 ---
 
+Feel free to explore, fork, or contribute to the project! 
 
