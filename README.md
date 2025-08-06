@@ -15,10 +15,6 @@ DevPal is a responsive landing page built for developers. It offers a clean UI w
 - CSS
 - JavaScript
 
-## 🖼️ Preview
-
-![DevPal Screenshot](logo.png) <!-- You can replace this with an actual screenshot if you want -->
-
 ## 📁 Project Structure
 index.html --> Main HTML structure
 style.css --> Styling and layout
