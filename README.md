@@ -25,14 +25,18 @@ logo.png --> Project logo
 
 To run this project locally:
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/SanviSK/SCT_WD_1
+**1. Clone the Repository **
 
-# 2. Navigate to the project directory
+```bash
+git clone https://github.com/SanviSK/SCT_WD_1.git
+
+https://github.com/SanviSK/SCT_WD_1
+
+
+** 2. Navigate to the project directory**
 cd SCT_WD_1
 
-# 3. Open the project
+** 3. Open the project**
 # Just double-click on the 'index.html' file
 # OR open it using any browser like Chrome, Firefox, etc.
 ```
